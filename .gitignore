@@ -1,0 +1,25 @@
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+target/
+*.class
+
+# Otros binarios
+*.exe
+*.dll
+*.zip
